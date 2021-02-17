@@ -3,3 +3,4 @@ rouge
 vert
 jaune
 bleu
+violet
